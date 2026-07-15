@@ -30,16 +30,19 @@ markers:
   - {type: punctuation, offset: 10, content: (, id: KR4e0042_krp_000-bkkpn4}
   - {type: punctuation, offset: 11, content: /, id: KR4e0042_krp_000-bkkpn5}
   - {type: punctuation, offset: 11, content: ), id: KR4e0042_krp_000-bkkpn6}
+  - {type: substitution, offset: 18, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 27, content: '
 
       ', id: KR4e0042_krp_000-bkkkrnewl4}
   - {type: line-break, offset: 27, content: '', id: KR4e0042_WYG_000-1a05}
   - {type: indent, offset: 27, content: 　　　　, id: KR4e0042_krp_000-bkkind5}
+  - {type: substitution, offset: 41, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: 'kr:newline', offset: 44, content: '
 
       ', id: KR4e0042_krp_000-bkkkrnewl5}
   - {type: line-break, offset: 44, content: '', id: KR4e0042_WYG_000-1a06}
   - {type: indent, offset: 44, content: 　　　　, id: KR4e0042_krp_000-bkkind6}
+  - {type: substitution, offset: 58, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: 'kr:newline', offset: 61, content: '
 
       ', id: KR4e0042_krp_000-bkkkrnewl6}
@@ -59,6 +62,7 @@ markers:
       ', id: KR4e0042_krp_000-bkkkrnewl9}
   - {type: line-break, offset: 95, content: '', id: KR4e0042_WYG_000-1b01}
   - {type: indent, offset: 95, content: 　　　　, id: KR4e0042_krp_000-bkkind9}
+  - {type: substitution, offset: 96, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: 'kr:newline', offset: 112, content: '
 
       ', id: KR4e0042_krp_000-bkkkrnewl10}
@@ -79,11 +83,13 @@ markers:
       ', id: KR4e0042_krp_000-bkkkrnewl13}
   - {type: line-break, offset: 163, content: '', id: KR4e0042_WYG_000-1b05}
   - {type: indent, offset: 163, content: 　　　　, id: KR4e0042_krp_000-bkkind13}
+  - {type: substitution, offset: 167, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 180, content: '
 
       ', id: KR4e0042_krp_000-bkkkrnewl14}
   - {type: line-break, offset: 180, content: '', id: KR4e0042_WYG_000-1b06}
   - {type: indent, offset: 180, content: 　　　　, id: KR4e0042_krp_000-bkkind14}
+  - {type: substitution, offset: 191, original: 鬰, replacement: 鬱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16669}}
   - {type: 'kr:newline', offset: 197, content: '
 
       ', id: KR4e0042_krp_000-bkkkrnewl15}
@@ -108,6 +114,7 @@ markers:
       ', id: KR4e0042_krp_000-bkkkrnewl19}
   - {type: line-break, offset: 248, content: '', id: KR4e0042_WYG_000-2a02}
   - {type: indent, offset: 248, content: 　　　　, id: KR4e0042_krp_000-bkkind18}
+  - {type: substitution, offset: 264, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: 'kr:newline', offset: 265, content: '
 
       ', id: KR4e0042_krp_000-bkkkrnewl20}
@@ -150,4 +157,4 @@ markers:
 
       ', id: KR4e0042_krp_000-bkkkrnewl24}
   back: []
-hash: sha256:00970d6bb59af79598e6f941019c914b18a2cf1903c81dea16720c4c4c094bed
+hash: sha256:9b7e3f37e43fbf7f245eb072cfd6d3b58897b9beec6ed3d4d0c8149911c3ab47
